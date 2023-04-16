@@ -1,4 +1,4 @@
-{
+*{
     margin: 0;
     padding: 0;
 }
@@ -24,13 +24,13 @@
 }
 
 .logo{
-    color: rgb(40, 143, 234);
+    color: rgb(223, 217, 214);
     font-size: 40px;
     font-family: Arial;
     padding-left: 20px;
     float: left;
     padding-top: 10px;
-    margin-top: 5px
+    margin-top: 10px
 }
 
 .menu{
